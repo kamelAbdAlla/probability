@@ -1,0 +1,8 @@
+C:\Users\kamel M. Abdalla\Desktop\Probability project\bin\Debug\Probability project.exe.config
+C:\Users\kamel M. Abdalla\Desktop\Probability project\bin\Debug\Probability project.exe
+C:\Users\kamel M. Abdalla\Desktop\Probability project\bin\Debug\Probability project.pdb
+C:\Users\kamel M. Abdalla\Desktop\Probability project\obj\Debug\Probability project.csproj.AssemblyReference.cache
+C:\Users\kamel M. Abdalla\Desktop\Probability project\obj\Debug\Probability project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamel M. Abdalla\Desktop\Probability project\obj\Debug\Probability project.csproj.CoreCompileInputs.cache
+C:\Users\kamel M. Abdalla\Desktop\Probability project\obj\Debug\Probability project.exe
+C:\Users\kamel M. Abdalla\Desktop\Probability project\obj\Debug\Probability project.pdb
